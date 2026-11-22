@@ -1,0 +1,6 @@
+{
+  "name": "SMM Direct Pro",
+  "description": "Sell JustAnotherPanel (JAP) SMM services with NOWPayments crypto gateway and Firebase Firestore",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
